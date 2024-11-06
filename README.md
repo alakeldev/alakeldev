@@ -5,7 +5,7 @@
 - I am a dedicated IT professional with extensive experience in technical support, system maintenance, and troubleshooting.
 My passion for building successful software and web applications led me to transition into software development, where I have honed my skills in both frontend and backend development.
 
-- As a full-stack developer, I possess expertise in JavaScript, Python, C++, CSS3, and HTML5.
+- As a full-stack developer, I possess expertise in JavaScript, Python, CSS3, and HTML5.
 I am committed to leveraging my technical knowledge and problem-solving abilities to contribute to innovative projects, enhance UI/UX design, and increase user experience.
 My goal is to drive organizational success through the development of high-quality, user-centric software solutions.
 </p>
