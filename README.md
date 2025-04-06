@@ -1,5 +1,4 @@
-<h1 align="center">let me = "Abdullah Alakel"</h1>
-<h2 align="center">🚀 Full-Stack Developer && Problem Solver</h2>
+<h1 align="center">🚀let me = "Abdullah Alakel";🚀</h1>
 
 <p align="center">
 
