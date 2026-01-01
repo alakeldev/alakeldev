@@ -14,9 +14,12 @@ I am committed to leveraging my technical knowledge and problem-solving abilitie
 
 <br>
 
-<p align="center">
-  <img src="qr-code/qr-code.png" alt="My Portfolio" style="margin-top: 5px;">
-</p>
+<div align="center">
+  <h2>My New Portfolio</h2>
+  <img src="qr-code/new-qr-code.png" alt="My New Portfolio" style="margin-top: 5px;">
+  <h2>My Old Portfolio</h2>
+  <img src="qr-code/qr-code.png" alt="My Old Portfolio" style="margin-top: 5px;">
+</div>
 
 <h1 align="center">🛠️Languages/Tools🛠️</h1>
 
