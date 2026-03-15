@@ -15,8 +15,8 @@
 <div align="center">
   <h2>Let's Connect - Scan & Explore!</h2>
   <img src="qr-code/qr.png" alt="Portfolio QR Code" style="margin-top: 5px;">
+  <br>
   <a href="https://www.alakel.eu">www.alakel.eu</a>
-  <hr>
 </div>
 
 <h1 align="center">🛠️Languages/Tools🛠️</h1>
