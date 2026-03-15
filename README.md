@@ -13,7 +13,7 @@
 <br>
 
 <div align="center">
-  <h2>🚀 Let's Connect - Scan & Explore! 📱</h2>
+  <h2>🚀 Let's Connect - Scan & Explore!</h2>
   <img src="qr-code/qr.png" alt="Portfolio QR Code" style="margin-top: 5px;">
 </div>
 
