@@ -1,9 +1,8 @@
 <h1 align="center">⚙️💻const me = "Abdullah Alakel";💻⚙️</h1>
 
 <p align="center">
-* I am a passionate Full-Stack Web and Mobile Application Developer with a robust foundation in IT and advanced technical problem-solving. My transition from IT professional to software developer has forged a unique synergy of technical excellence and hands-on experience in architecting robust, scalable, and production-ready applications.
-
-* Specializing in full-stack web development and cross-platform mobile solutions, I bring deep expertise in TypeScript, JavaScript, C#, and Python, leveraging modern frameworks and cutting-edge technologies to build sophisticated applications. I am committed to engineering innovative solutions that marry exceptional user experiences with seamless performance and world-class UI/UX design.
+  * I am a passionate Full-Stack Web and Mobile Application Developer with a robust foundation in IT and advanced technical problem-solving. My transition from IT professional to software developer has forged a unique synergy of technical excellence and hands-on experience in architecting robust, scalable, and production-ready applications.
+  * Specializing in full-stack web development and cross-platform mobile solutions, I bring deep expertise in TypeScript, JavaScript, C#, and Python, leveraging modern frameworks and cutting-edge technologies to build sophisticated applications. I am committed to engineering innovative solutions that marry exceptional user experiences with seamless performance and world-class UI/UX design.
 </p>
 
 <br>
