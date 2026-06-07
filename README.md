@@ -7,9 +7,7 @@
 - Specializing in full-stack web development and cross-platform mobile solutions, I bring deep expertise in TypeScript, JavaScript, C#, and Python, leveraging modern frameworks and cutting-edge technologies to build sophisticated applications. I am committed to engineering innovative solutions that marry exceptional user experiences with seamless performance and world-class UI/UX design.
 
 </p>
-
 <br>
-
 <div align="center">
   <h2>💡Let's Connect - Scan & Explore!💡</h2>
   <img src="qr-code/qr.png" alt="Portfolio QR Code" style="margin-top: 5px;">
