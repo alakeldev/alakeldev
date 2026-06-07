@@ -6,8 +6,6 @@
 
 - Specializing in full-stack web development and cross-platform mobile solutions, I bring deep expertise in TypeScript, JavaScript, C#, and Python, leveraging modern frameworks and cutting-edge technologies to build sophisticated applications. I am committed to engineering innovative solutions that marry exceptional user experiences with seamless performance and world-class UI/UX design.
 
-- My mission is clear: to transform visionary ideas into high-quality, user-centric web and mobile applications that deliver measurable impact, exceed expectations, and fuel organizational growth.
-
 </p>
 
 <br>
