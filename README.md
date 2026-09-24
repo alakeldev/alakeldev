@@ -1,4 +1,4 @@
-<h1 align="center">⚙️💻const me = "Abdullah Alakel";💻⚙️</h1>
+<h1 align="center">⚙️💻const ME = "Abdullah Alakel";💻⚙️</h1>
 
 <p align="center">
  
