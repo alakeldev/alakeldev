@@ -2,9 +2,9 @@
 
 <p align="center">
  
-- I am a passionate Full-Stack Web and Mobile Application Developer with a robust foundation in IT and advanced technical problem-solving. My transition from IT professional to software developer has forged a unique synergy of technical excellence and hands-on experience in architecting robust, scalable, and production-ready applications.
+- I am a Full-Stack Web and Mobile Developer with a background in IT. I combine hands-on technical experience with practical problem-solving to build useful, reliable applications.
 
-- Specializing in full-stack web development and cross-platform mobile solutions, I bring deep expertise in TypeScript, JavaScript, Python and C#, leveraging modern frameworks and cutting-edge technologies to build sophisticated applications. I am committed to engineering innovative solutions that marry exceptional user experiences with seamless performance and world-class UI/UX design.
+- I develop full-stack applications with TypeScript, JavaScript, and Python. My web development work spans React, Next.js, and Node.js, alongside Django and Django REST Framework (DRF), with React Native for cross-platform mobile development. I focus on well-structured APIs, responsive user experiences, and maintainable code.
 </p>
 
 <br>
@@ -25,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" alt="Django REST" width="40" />
