@@ -1,17 +1,9 @@
-<h1 align="center">⚙️💻const ME = "Abdullah Alakel";💻⚙️</h1>
-
-<p align="center">
- 
-- I am a Full-Stack Web and Mobile Developer with a background in IT. I combine hands-on technical experience with practical problem-solving to build useful, reliable applications.
-
-- I develop full-stack applications with TypeScript, JavaScript, and Python. My web development work spans React, Next.js, and Node.js, alongside Django and Django REST Framework (DRF), with React Native for cross-platform mobile development. I focus on well-structured APIs, responsive user experiences, and maintainable code.
-</p>
-
-<br>
+<h1 align="center">⚙️💻const me = "Abdullah Alakel";💻⚙️</h1>
 
 <div align="center">
-  <h2>💡Let's Connect - Scan & Explore!💡</h2>
-  <img src="qr-code/qr.png" alt="Portfolio QR Code" style="margin-top: 5px; width: 175px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=1500&amp;color=4F46E5&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;repeat=true&amp;width=620&amp;height=55&amp;lines=I+build+full-stack+web+and+mobile+apps.;React%2C+Next.js+and+React+Native+power+my+UI.;Django%2C+DRF+and+Node.js+power+my+APIs.;I+bring+IT+experience+to+practical+solutions." alt="Full-stack web and mobile developer with an IT background. React, Next.js, React Native, Django, DRF and Node.js." width="620" height="55" />
+  <br>
+  <img src="qr-code/qr.png" alt="Portfolio QR Code" width="175" />
   <br>
   <a href="https://www.alakel.dev">www.alakel.dev</a>
 </div>
