@@ -3,6 +3,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=1500&amp;color=4F46E5&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;repeat=true&amp;width=620&amp;height=55&amp;lines=I+build+full-stack+web+and+mobile+apps.;React%2C+Next.js+and+React+Native+power+my+UI.;Django%2C+DRF+and+Node.js+power+my+APIs.;I+bring+IT+experience+to+practical+solutions." alt="Full-stack web and mobile developer with an IT background. React, Next.js, React Native, Django, DRF and Node.js." width="620" height="55" />
   <br>
+  <br>
   <img src="qr-code/qr.png" alt="Portfolio QR Code" width="175" />
   <br>
   <a href="https://www.alakel.dev">www.alakel.dev</a>
